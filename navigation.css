@@ -1,0 +1,13 @@
+a {
+	text-decoration: none;
+	color: black;
+	background-color: lightgrey;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+}
